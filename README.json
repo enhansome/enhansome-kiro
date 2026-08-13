@@ -1,0 +1,429 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "KiroGraph",
+          "description": "Semantic code knowledge graph for Kiro: tree-sitter-powered indexing, MCP tools for instant symbol lookups and call-graph traversal, optional vector search — all 100% local.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-03T07:25:17Z",
+            "owner": "davide-desio-eleva",
+            "repo": "kirograph",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kiro-cli-history",
+          "description": "Terminal UI for fuzzy-searching, browsing, and resuming Kiro CLI conversations across all directories and session formats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-06T23:21:37Z",
+            "owner": "prabhugr",
+            "repo": "kiro-cli-history",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Latest Additions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kiro",
+          "description": "The Kiro IDE — agentic development from prototype to production.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-22T16:23:59Z",
+            "owner": "kirodotdev",
+            "repo": "Kiro",
+            "stars": 4176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spirit of Kiro",
+          "description": "A generative-AI game built by the Kiro team showcasing agentic development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-07-16T00:37:43Z",
+            "owner": "kirodotdev",
+            "repo": "spirit-of-kiro",
+            "stars": 938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Powers",
+          "description": "Official Powers that add specialized context and tools to Kiro agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T21:33:09Z",
+            "owner": "kirodotdev",
+            "repo": "powers",
+            "stars": 354
+          }
+        }
+      ],
+      "title": "Official"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AI-DLC Workflows",
+          "description": "Reference workflows for the AI Development Lifecycle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T07:39:34Z",
+            "owner": "awslabs",
+            "repo": "aidlc-workflows",
+            "stars": 3984
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kiro-bmad-setup",
+          "description": "CLI tool that configures the BMAD methodology for Kiro projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-17T20:51:41Z",
+            "owner": "bonarjs",
+            "repo": "kiro-bmad-setup",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Workflows and Methodology"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "KiroGraph",
+          "description": "Semantic code knowledge graph for Kiro: tree-sitter-powered indexing, MCP tools for instant symbol lookups and call-graph traversal, optional vector search — all 100% local.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-03T07:25:17Z",
+            "owner": "davide-desio-eleva",
+            "repo": "kirograph",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kiro-project-template",
+          "description": "Starter template with steering docs, hooks, and an npx scaffolder supporting 13 stack presets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-27T15:04:40Z",
+            "owner": "BinarySword",
+            "repo": "kiro-project-template",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "setup-kiro-action",
+          "description": "GitHub Action to install and cache Kiro CLI in CI/CD pipelines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-10T00:32:23Z",
+            "owner": "clouatre-labs",
+            "repo": "setup-kiro-action",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kiro-cli-history",
+          "description": "Terminal UI for fuzzy-searching, browsing, and resuming Kiro CLI conversations across all directories and session formats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-06T23:21:37Z",
+            "owner": "prabhugr",
+            "repo": "kiro-cli-history",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PARK",
+          "description": "Electron app for running multiple Kiro CLI sessions in parallel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-31T22:10:56Z",
+            "owner": "13shivam",
+            "repo": "park",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kiro Settings Manager",
+          "description": "Python CLI for managing Kiro configuration bundles of skills, steering, and hooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-15T03:07:08Z",
+            "owner": "staneslevski",
+            "repo": "Kiro-Settings-Manager",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kiro-generator",
+          "description": "Rust CLI for managing Kiro agent configurations with TOML inheritance and templates.",
+          "children": []
+        }
+      ],
+      "title": "CLI Tools and GitHub Actions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ralph-orchestrator",
+          "description": "Rust-based multi-agent orchestrator supporting Kiro CLI and other agent backends.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-25T03:50:59Z",
+            "owner": "mikeyobrien",
+            "repo": "ralph-orchestrator",
+            "stars": 3098
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cli-agent-orchestrator",
+          "description": "Multi-provider agent orchestrator with Kiro CLI as the default backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T09:51:38Z",
+            "owner": "awslabs",
+            "repo": "cli-agent-orchestrator",
+            "stars": 1035
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kiro-team",
+          "description": "Multi-agent orchestration patterns for Kiro CLI using worktree isolation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-06T17:55:17Z",
+            "owner": "requix",
+            "repo": "kiro-team",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kiro CLI Multi-Agent Development",
+          "description": "Five-agent development workflow demonstrating multi-agent patterns for Kiro CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-06T02:04:42Z",
+            "owner": "aws-samples",
+            "repo": "sample-kiro-cli-multiagent-development",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "Agent Orchestration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kiro CLI Prompts for Product Teams",
+          "description": "Product development workflow toolkit with PM-focused agents covering discovery through prototyping.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-21T18:46:12Z",
+            "owner": "aws-samples",
+            "repo": "sample-kiro-cli-prompts-for-product-teams",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kiro-steering-docs",
+          "description": "Community collection of reusable steering documents organized by category.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-04T13:17:10Z",
+            "owner": "mikeartee",
+            "repo": "kiro-steering-docs",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kiro Harness Hive",
+          "description": "Skill for generating custom multi-agent harnesses with plan-execute-evaluate loops.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-29T05:22:14Z",
+            "owner": "aws-samples",
+            "repo": "sample-kiro-harness-hive",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kiro-adr-skill",
+          "description": "Spec-driven Architecture Decision Record generator with auto-numbering, trade-off analysis, and reusable templates. Apache 2.0 license as of 2026-04-29.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-29T22:16:20Z",
+            "owner": "johndiv",
+            "repo": "kiro-adr-skill",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Skills, Steering and Hooks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Spec-Driven Presentation Maker",
+          "description": "Four-layer architecture for generating presentations from Kiro skill to web app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T14:06:06Z",
+            "owner": "aws-samples",
+            "repo": "sample-spec-driven-presentation-maker",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "E2E Product Development",
+          "description": "Agent Lattice framework for running design-thinking workflows inside Kiro.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-09T20:16:24Z",
+            "owner": "aws-samples",
+            "repo": "sample-e2e-product-development-with-kiro",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kiro Steering Studio",
+          "description": "Voice-powered steering file generator using Amazon Nova Sonic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-04T07:34:01Z",
+            "owner": "aws-samples",
+            "repo": "sample-kiro-steering-studio",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Target Identification Agent",
+          "description": "Pharma drug-discovery platform using Kiro specs and Strands SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-12T17:08:43Z",
+            "owner": "aws-samples",
+            "repo": "sample-target-identification-agent-using-kiro",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PCS Kiro Agent",
+          "description": "Kiro CLI agent for creating and managing AWS Parallel Computing Service clusters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-01T17:49:55Z",
+            "owner": "aws-samples",
+            "repo": "sample-pcs-kiro-agent",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Built with Kiro"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines before opening a PR.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T08:56:35.273Z",
+    "original_repository": "kirodotdev-labs/awesome-kiro",
+    "original_repository_sha": "0f9d16646b904aec1a56b661b8f801c0c96ab8c2",
+    "enhanced_repository": "enhansome/enhansome-kiro",
+    "enhanced_repository_description": null,
+    "title": "Awesome Kiro with stars"
+  }
+}
