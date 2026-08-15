@@ -48,7 +48,7 @@
             "last_commit": "2026-06-22T16:23:59Z",
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4183
+            "stars": 4187
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-07-16T00:37:43Z",
             "owner": "kirodotdev",
             "repo": "spirit-of-kiro",
-            "stars": 939
+            "stars": 941
           }
         },
         {
@@ -93,10 +93,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T05:59:09Z",
+            "last_commit": "2026-08-15T05:44:10Z",
             "owner": "awslabs",
             "repo": "aidlc-workflows",
-            "stars": 4007
+            "stars": 4021
           }
         },
         {
@@ -226,7 +226,7 @@
             "last_commit": "2026-07-25T03:50:59Z",
             "owner": "mikeyobrien",
             "repo": "ralph-orchestrator",
-            "stars": 3097
+            "stars": 3098
           }
         },
         {
@@ -237,10 +237,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T20:08:12Z",
+            "last_commit": "2026-08-14T10:30:51Z",
             "owner": "awslabs",
             "repo": "cli-agent-orchestrator",
-            "stars": 1044
+            "stars": 1050
           }
         },
         {
@@ -302,7 +302,7 @@
             "last_commit": "2026-06-04T13:17:10Z",
             "owner": "mikeartee",
             "repo": "kiro-steering-docs",
-            "stars": 27
+            "stars": 26
           }
         },
         {
@@ -316,7 +316,7 @@
             "last_commit": "2026-03-29T05:22:14Z",
             "owner": "aws-samples",
             "repo": "sample-kiro-harness-hive",
-            "stars": 19
+            "stars": 20
           }
         },
         {
@@ -350,7 +350,7 @@
             "last_commit": "2026-08-14T05:34:39Z",
             "owner": "aws-samples",
             "repo": "sample-spec-driven-presentation-maker",
-            "stars": 126
+            "stars": 127
           }
         },
         {
@@ -364,7 +364,7 @@
             "last_commit": "2026-04-09T20:16:24Z",
             "owner": "aws-samples",
             "repo": "sample-e2e-product-development-with-kiro",
-            "stars": 23
+            "stars": 24
           }
         },
         {
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T08:50:12.164Z",
+    "last_updated": "2026-08-15T08:02:41.247Z",
     "original_repository": "kirodotdev-labs/awesome-kiro",
     "original_repository_sha": "0f9d16646b904aec1a56b661b8f801c0c96ab8c2",
     "enhanced_repository": "enhansome/enhansome-kiro",
