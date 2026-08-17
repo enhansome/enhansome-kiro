@@ -48,7 +48,7 @@
             "last_commit": "2026-06-22T16:23:59Z",
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4192
+            "stars": 4189
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-07-16T00:37:43Z",
             "owner": "kirodotdev",
             "repo": "spirit-of-kiro",
-            "stars": 941
+            "stars": 942
           }
         },
         {
@@ -93,10 +93,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T22:04:39Z",
+            "last_commit": "2026-08-17T08:04:34Z",
             "owner": "awslabs",
             "repo": "aidlc-workflows",
-            "stars": 4030
+            "stars": 4040
           }
         },
         {
@@ -223,10 +223,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-07-25T03:50:59Z",
+            "last_commit": "2026-08-16T22:21:40Z",
             "owner": "mikeyobrien",
             "repo": "ralph-orchestrator",
-            "stars": 3098
+            "stars": 3099
           }
         },
         {
@@ -237,10 +237,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T05:41:29Z",
+            "last_commit": "2026-08-17T05:36:18Z",
             "owner": "awslabs",
             "repo": "cli-agent-orchestrator",
-            "stars": 1056
+            "stars": 1061
           }
         },
         {
@@ -347,7 +347,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T05:34:39Z",
+            "last_commit": "2026-08-17T06:21:56Z",
             "owner": "aws-samples",
             "repo": "sample-spec-driven-presentation-maker",
             "stars": 127
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T08:03:19.738Z",
+    "last_updated": "2026-08-17T08:26:06.144Z",
     "original_repository": "kirodotdev-labs/awesome-kiro",
     "original_repository_sha": "0f9d16646b904aec1a56b661b8f801c0c96ab8c2",
     "enhanced_repository": "enhansome/enhansome-kiro",
