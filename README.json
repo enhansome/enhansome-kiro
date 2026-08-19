@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1193581660,
             "language": "TypeScript",
             "last_commit": "2026-07-03T07:25:17Z",
             "owner": "davide-desio-eleva",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1203289173,
             "language": "Python",
             "last_commit": "2026-04-06T23:21:37Z",
             "owner": "prabhugr",
@@ -35,7 +37,7 @@
       "title": "Latest Additions"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,11 +46,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1003854381,
             "language": "TypeScript",
             "last_commit": "2026-06-22T16:23:59Z",
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4194
+            "stars": 4195
           }
         },
         {
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 976955230,
             "language": "Vue",
             "last_commit": "2026-07-16T00:37:43Z",
             "owner": "kirodotdev",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1108181839,
             "language": "Python",
             "last_commit": "2026-08-11T21:33:09Z",
             "owner": "kirodotdev",
@@ -83,7 +88,7 @@
       "title": "Official"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -92,11 +97,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1096054771,
             "language": "Python",
-            "last_commit": "2026-08-18T08:08:37Z",
+            "last_commit": "2026-08-19T06:02:14Z",
             "owner": "awslabs",
             "repo": "aidlc-workflows",
-            "stars": 4056
+            "stars": 4071
           }
         },
         {
@@ -106,6 +112,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1047118512,
             "language": "TypeScript",
             "last_commit": "2025-09-17T20:51:41Z",
             "owner": "bonarjs",
@@ -117,7 +124,7 @@
       "title": "Workflows and Methodology"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -126,6 +133,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1193581660,
             "language": "TypeScript",
             "last_commit": "2026-07-03T07:25:17Z",
             "owner": "davide-desio-eleva",
@@ -140,6 +148,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1186986602,
             "language": "TypeScript",
             "last_commit": "2026-05-27T15:04:40Z",
             "owner": "BinarySword",
@@ -154,8 +163,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1105001919,
             "language": null,
-            "last_commit": "2026-08-10T00:32:23Z",
+            "last_commit": "2026-08-18T15:14:15Z",
             "owner": "clouatre-labs",
             "repo": "setup-kiro-action",
             "stars": 14
@@ -168,6 +178,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1203289173,
             "language": "Python",
             "last_commit": "2026-04-06T23:21:37Z",
             "owner": "prabhugr",
@@ -182,6 +193,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1114644702,
             "language": "TypeScript",
             "last_commit": "2025-12-31T22:10:56Z",
             "owner": "13shivam",
@@ -196,24 +208,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1185809018,
             "language": "Python",
             "last_commit": "2026-05-15T03:07:08Z",
             "owner": "staneslevski",
             "repo": "Kiro-Settings-Manager",
             "stars": 4
           }
-        },
-        {
-          "node_type": "item",
-          "title": "kiro-generator",
-          "description": "Rust CLI for managing Kiro agent configurations with TOML inheritance and templates.",
-          "children": []
         }
       ],
       "title": "CLI Tools and GitHub Actions"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -222,11 +229,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1052259802,
             "language": "Rust",
             "last_commit": "2026-08-16T22:21:40Z",
             "owner": "mikeyobrien",
             "repo": "ralph-orchestrator",
-            "stars": 3099
+            "stars": 3102
           }
         },
         {
@@ -236,11 +244,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1028432181,
             "language": "Python",
-            "last_commit": "2026-08-18T06:47:30Z",
+            "last_commit": "2026-08-19T07:33:25Z",
             "owner": "awslabs",
             "repo": "cli-agent-orchestrator",
-            "stars": 1064
+            "stars": 1072
           }
         },
         {
@@ -250,6 +259,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1153513373,
             "language": "Shell",
             "last_commit": "2026-05-06T17:55:17Z",
             "owner": "requix",
@@ -264,6 +274,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1165122859,
             "language": "Shell",
             "last_commit": "2026-08-06T02:04:42Z",
             "owner": "aws-samples",
@@ -275,7 +286,7 @@
       "title": "Agent Orchestration"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -284,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1047074790,
             "language": "HTML",
             "last_commit": "2026-07-21T18:46:12Z",
             "owner": "aws-samples",
@@ -298,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1071945697,
             "language": "TypeScript",
             "last_commit": "2026-06-04T13:17:10Z",
             "owner": "mikeartee",
@@ -312,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1193970735,
             "language": "Shell",
             "last_commit": "2026-03-29T05:22:14Z",
             "owner": "aws-samples",
@@ -326,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1225035284,
             "language": null,
             "last_commit": "2026-04-29T22:16:20Z",
             "owner": "johndiv",
@@ -337,7 +352,7 @@
       "title": "Skills, Steering and Hooks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -346,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1196740198,
             "language": "Python",
             "last_commit": "2026-08-17T18:44:51Z",
             "owner": "aws-samples",
@@ -360,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1206219143,
             "language": "Python",
             "last_commit": "2026-04-09T20:16:24Z",
             "owner": "aws-samples",
@@ -374,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1153975887,
             "language": "TypeScript",
             "last_commit": "2026-05-04T07:34:01Z",
             "owner": "aws-samples",
@@ -388,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1150683790,
             "language": "Python",
             "last_commit": "2026-05-12T17:08:43Z",
             "owner": "aws-samples",
@@ -402,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1157375514,
             "language": null,
             "last_commit": "2026-04-01T17:49:55Z",
             "owner": "aws-samples",
@@ -411,15 +431,10 @@
         }
       ],
       "title": "Built with Kiro"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines before opening a PR.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T08:16:24.954Z",
+    "last_updated": "2026-08-19T08:17:41.612Z",
     "original_repository": "kirodotdev-labs/awesome-kiro",
     "original_repository_sha": "0f9d16646b904aec1a56b661b8f801c0c96ab8c2",
     "enhanced_repository": "enhansome/enhansome-kiro",
