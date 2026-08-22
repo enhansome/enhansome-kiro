@@ -15,7 +15,7 @@
             "last_commit": "2026-07-03T07:25:17Z",
             "owner": "davide-desio-eleva",
             "repo": "kirograph",
-            "stars": 141
+            "stars": 142
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2026-06-22T16:23:59Z",
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4211
+            "stars": 4214
           }
         },
         {
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 1108181839,
             "language": "Python",
-            "last_commit": "2026-08-20T17:52:06Z",
+            "last_commit": "2026-08-21T21:00:23Z",
             "owner": "kirodotdev",
             "repo": "powers",
-            "stars": 359
+            "stars": 360
           }
         }
       ],
@@ -99,10 +99,10 @@
             "archived": false,
             "id": 1096054771,
             "language": "Python",
-            "last_commit": "2026-08-21T07:47:00Z",
+            "last_commit": "2026-08-22T02:34:59Z",
             "owner": "awslabs",
             "repo": "aidlc-workflows",
-            "stars": 4116
+            "stars": 4127
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2026-07-03T07:25:17Z",
             "owner": "davide-desio-eleva",
             "repo": "kirograph",
-            "stars": 141
+            "stars": 142
           }
         },
         {
@@ -231,10 +231,10 @@
             "archived": false,
             "id": 1052259802,
             "language": "Rust",
-            "last_commit": "2026-08-21T04:24:43Z",
+            "last_commit": "2026-08-21T22:50:30Z",
             "owner": "mikeyobrien",
             "repo": "ralph-orchestrator",
-            "stars": 3104
+            "stars": 3107
           }
         },
         {
@@ -246,10 +246,10 @@
             "archived": false,
             "id": 1028432181,
             "language": "Python",
-            "last_commit": "2026-08-21T05:35:56Z",
+            "last_commit": "2026-08-22T04:58:21Z",
             "owner": "awslabs",
             "repo": "cli-agent-orchestrator",
-            "stars": 1090
+            "stars": 1094
           }
         },
         {
@@ -434,7 +434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T08:21:17.402Z",
+    "last_updated": "2026-08-22T08:03:28.201Z",
     "original_repository": "kirodotdev-labs/awesome-kiro",
     "original_repository_id": 1211809631,
     "original_repository_sha": "0f9d16646b904aec1a56b661b8f801c0c96ab8c2",
