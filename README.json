@@ -51,7 +51,7 @@
             "last_commit": "2026-06-22T16:23:59Z",
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4214
+            "stars": 4217
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-21T21:00:23Z",
             "owner": "kirodotdev",
             "repo": "powers",
-            "stars": 360
+            "stars": 361
           }
         }
       ],
@@ -99,10 +99,10 @@
             "archived": false,
             "id": 1096054771,
             "language": "Python",
-            "last_commit": "2026-08-22T02:34:59Z",
+            "last_commit": "2026-08-23T03:26:31Z",
             "owner": "awslabs",
             "repo": "aidlc-workflows",
-            "stars": 4127
+            "stars": 4130
           }
         },
         {
@@ -246,10 +246,10 @@
             "archived": false,
             "id": 1028432181,
             "language": "Python",
-            "last_commit": "2026-08-22T04:58:21Z",
+            "last_commit": "2026-08-23T05:48:28Z",
             "owner": "awslabs",
             "repo": "cli-agent-orchestrator",
-            "stars": 1094
+            "stars": 1097
           }
         },
         {
@@ -434,7 +434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T08:03:28.201Z",
+    "last_updated": "2026-08-23T08:11:32.654Z",
     "original_repository": "kirodotdev-labs/awesome-kiro",
     "original_repository_id": 1211809631,
     "original_repository_sha": "0f9d16646b904aec1a56b661b8f801c0c96ab8c2",
