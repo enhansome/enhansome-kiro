@@ -51,7 +51,7 @@
             "last_commit": "2026-06-22T16:23:59Z",
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4218
+            "stars": 4220
           }
         },
         {
@@ -99,10 +99,10 @@
             "archived": false,
             "id": 1096054771,
             "language": "Python",
-            "last_commit": "2026-08-24T14:14:49Z",
+            "last_commit": "2026-08-25T05:47:38Z",
             "owner": "awslabs",
             "repo": "aidlc-workflows",
-            "stars": 4147
+            "stars": 4161
           }
         },
         {
@@ -165,7 +165,7 @@
             "archived": false,
             "id": 1105001919,
             "language": null,
-            "last_commit": "2026-08-24T14:14:04Z",
+            "last_commit": "2026-08-25T03:57:59Z",
             "owner": "clouatre-labs",
             "repo": "setup-kiro-action",
             "stars": 15
@@ -231,10 +231,10 @@
             "archived": false,
             "id": 1052259802,
             "language": "Rust",
-            "last_commit": "2026-08-21T22:50:30Z",
+            "last_commit": "2026-08-25T04:37:23Z",
             "owner": "mikeyobrien",
             "repo": "ralph-orchestrator",
-            "stars": 3106
+            "stars": 3107
           }
         },
         {
@@ -246,10 +246,10 @@
             "archived": false,
             "id": 1028432181,
             "language": "Python",
-            "last_commit": "2026-08-24T14:43:48Z",
+            "last_commit": "2026-08-25T06:37:36Z",
             "owner": "awslabs",
             "repo": "cli-agent-orchestrator",
-            "stars": 1118
+            "stars": 1119
           }
         },
         {
@@ -300,7 +300,7 @@
             "last_commit": "2026-07-21T18:46:12Z",
             "owner": "aws-samples",
             "repo": "sample-kiro-cli-prompts-for-product-teams",
-            "stars": 40
+            "stars": 41
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2026-06-04T13:17:10Z",
             "owner": "mikeartee",
             "repo": "kiro-steering-docs",
-            "stars": 26
+            "stars": 27
           }
         },
         {
@@ -363,7 +363,7 @@
             "archived": false,
             "id": 1196740198,
             "language": "Python",
-            "last_commit": "2026-08-17T18:44:51Z",
+            "last_commit": "2026-08-24T17:04:40Z",
             "owner": "aws-samples",
             "repo": "sample-spec-driven-presentation-maker",
             "stars": 127
@@ -434,7 +434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:48:39.441Z",
+    "last_updated": "2026-08-25T06:41:27.306Z",
     "original_repository": "kirodotdev-labs/awesome-kiro",
     "original_repository_id": 1211809631,
     "original_repository_sha": "0f9d16646b904aec1a56b661b8f801c0c96ab8c2",
