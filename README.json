@@ -51,7 +51,7 @@
             "last_commit": "2026-06-22T16:23:59Z",
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4220
+            "stars": 4222
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-07-16T00:37:43Z",
             "owner": "kirodotdev",
             "repo": "spirit-of-kiro",
-            "stars": 942
+            "stars": 941
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-21T21:00:23Z",
             "owner": "kirodotdev",
             "repo": "powers",
-            "stars": 361
+            "stars": 363
           }
         }
       ],
@@ -99,10 +99,10 @@
             "archived": false,
             "id": 1096054771,
             "language": "Python",
-            "last_commit": "2026-08-25T08:20:20Z",
+            "last_commit": "2026-08-26T07:52:48Z",
             "owner": "awslabs",
             "repo": "aidlc-workflows",
-            "stars": 4162
+            "stars": 4177
           }
         },
         {
@@ -165,7 +165,7 @@
             "archived": false,
             "id": 1105001919,
             "language": null,
-            "last_commit": "2026-08-25T03:57:59Z",
+            "last_commit": "2026-08-25T20:37:58Z",
             "owner": "clouatre-labs",
             "repo": "setup-kiro-action",
             "stars": 15
@@ -234,7 +234,7 @@
             "last_commit": "2026-08-25T04:37:23Z",
             "owner": "mikeyobrien",
             "repo": "ralph-orchestrator",
-            "stars": 3107
+            "stars": 3108
           }
         },
         {
@@ -246,10 +246,10 @@
             "archived": false,
             "id": 1028432181,
             "language": "Python",
-            "last_commit": "2026-08-25T08:14:30Z",
+            "last_commit": "2026-08-26T04:52:25Z",
             "owner": "awslabs",
             "repo": "cli-agent-orchestrator",
-            "stars": 1122
+            "stars": 1129
           }
         },
         {
@@ -264,7 +264,7 @@
             "last_commit": "2026-05-06T17:55:17Z",
             "owner": "requix",
             "repo": "kiro-team",
-            "stars": 37
+            "stars": 38
           }
         },
         {
@@ -363,7 +363,7 @@
             "archived": false,
             "id": 1196740198,
             "language": "Python",
-            "last_commit": "2026-08-25T08:06:52Z",
+            "last_commit": "2026-08-25T23:05:26Z",
             "owner": "aws-samples",
             "repo": "sample-spec-driven-presentation-maker",
             "stars": 127
@@ -434,7 +434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T08:24:11.394Z",
+    "last_updated": "2026-08-26T08:24:59.702Z",
     "original_repository": "kirodotdev-labs/awesome-kiro",
     "original_repository_id": 1211809631,
     "original_repository_sha": "0f9d16646b904aec1a56b661b8f801c0c96ab8c2",
