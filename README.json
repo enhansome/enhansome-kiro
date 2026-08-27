@@ -48,10 +48,10 @@
             "archived": false,
             "id": 1003854381,
             "language": "TypeScript",
-            "last_commit": "2026-06-22T16:23:59Z",
+            "last_commit": "2026-08-27T03:38:49Z",
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4222
+            "stars": 4227
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-07-16T00:37:43Z",
             "owner": "kirodotdev",
             "repo": "spirit-of-kiro",
-            "stars": 941
+            "stars": 942
           }
         },
         {
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 1108181839,
             "language": "Python",
-            "last_commit": "2026-08-21T21:00:23Z",
+            "last_commit": "2026-08-26T17:32:34Z",
             "owner": "kirodotdev",
             "repo": "powers",
-            "stars": 363
+            "stars": 365
           }
         }
       ],
@@ -99,10 +99,10 @@
             "archived": false,
             "id": 1096054771,
             "language": "Python",
-            "last_commit": "2026-08-26T07:52:48Z",
+            "last_commit": "2026-08-27T11:22:39Z",
             "owner": "awslabs",
             "repo": "aidlc-workflows",
-            "stars": 4177
+            "stars": 4193
           }
         },
         {
@@ -234,7 +234,7 @@
             "last_commit": "2026-08-25T04:37:23Z",
             "owner": "mikeyobrien",
             "repo": "ralph-orchestrator",
-            "stars": 3108
+            "stars": 3113
           }
         },
         {
@@ -246,10 +246,10 @@
             "archived": false,
             "id": 1028432181,
             "language": "Python",
-            "last_commit": "2026-08-26T04:52:25Z",
+            "last_commit": "2026-08-27T06:06:52Z",
             "owner": "awslabs",
             "repo": "cli-agent-orchestrator",
-            "stars": 1129
+            "stars": 1140
           }
         },
         {
@@ -300,7 +300,7 @@
             "last_commit": "2026-07-21T18:46:12Z",
             "owner": "aws-samples",
             "repo": "sample-kiro-cli-prompts-for-product-teams",
-            "stars": 41
+            "stars": 42
           }
         },
         {
@@ -434,9 +434,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T08:24:59.702Z",
-    "original_repository": "kirodotdev-labs/awesome-kiro",
-    "original_repository_id": 1211809631,
+    "last_updated": "2026-08-27T11:46:19.176Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1211809631,
+      "language": null,
+      "last_commit": "2026-05-10T15:44:55Z",
+      "owner": "kirodotdev-labs",
+      "repo": "awesome-kiro",
+      "stars": 62
+    },
     "original_repository_sha": "0f9d16646b904aec1a56b661b8f801c0c96ab8c2",
     "enhanced_repository": "enhansome/enhansome-kiro",
     "enhanced_repository_description": null,
