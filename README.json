@@ -48,10 +48,10 @@
             "archived": false,
             "id": 1003854381,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T03:38:49Z",
+            "last_commit": "2026-08-27T16:33:53Z",
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4227
+            "stars": 4229
           }
         },
         {
@@ -99,10 +99,10 @@
             "archived": false,
             "id": 1096054771,
             "language": "Python",
-            "last_commit": "2026-08-27T11:22:39Z",
+            "last_commit": "2026-08-27T14:52:23Z",
             "owner": "awslabs",
             "repo": "aidlc-workflows",
-            "stars": 4193
+            "stars": 4197
           }
         },
         {
@@ -234,7 +234,7 @@
             "last_commit": "2026-08-25T04:37:23Z",
             "owner": "mikeyobrien",
             "repo": "ralph-orchestrator",
-            "stars": 3113
+            "stars": 3114
           }
         },
         {
@@ -246,7 +246,7 @@
             "archived": false,
             "id": 1028432181,
             "language": "Python",
-            "last_commit": "2026-08-27T06:06:52Z",
+            "last_commit": "2026-08-27T18:24:27Z",
             "owner": "awslabs",
             "repo": "cli-agent-orchestrator",
             "stars": 1140
@@ -434,7 +434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:46:19.176Z",
+    "last_updated": "2026-08-27T18:25:08.918Z",
     "original_repository_info": {
       "archived": false,
       "id": 1211809631,
