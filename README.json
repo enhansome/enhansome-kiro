@@ -15,8 +15,9 @@
             "last_commit": "2026-07-03T07:25:17Z",
             "owner": "davide-desio-eleva",
             "repo": "kirograph",
-            "stars": 143
-          }
+            "stars": 142
+          },
+          "first_seen": "2026-08-28T19:36:26.608Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "prabhugr",
             "repo": "kiro-cli-history",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T19:36:26.608Z"
         }
       ],
       "title": "Latest Additions"
@@ -51,8 +53,9 @@
             "last_commit": "2026-08-27T16:33:53Z",
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4229
-          }
+            "stars": 4231
+          },
+          "first_seen": "2026-08-28T19:36:26.608Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "kirodotdev",
             "repo": "spirit-of-kiro",
             "stars": 942
-          }
+          },
+          "first_seen": "2026-08-28T19:36:26.608Z"
         },
         {
           "node_type": "item",
@@ -81,8 +85,9 @@
             "last_commit": "2026-08-26T17:32:34Z",
             "owner": "kirodotdev",
             "repo": "powers",
-            "stars": 365
-          }
+            "stars": 367
+          },
+          "first_seen": "2026-08-28T19:36:26.608Z"
         }
       ],
       "title": "Official"
@@ -99,11 +104,12 @@
             "archived": false,
             "id": 1096054771,
             "language": "Python",
-            "last_commit": "2026-08-27T14:52:23Z",
+            "last_commit": "2026-08-28T05:06:08Z",
             "owner": "awslabs",
             "repo": "aidlc-workflows",
-            "stars": 4197
-          }
+            "stars": 4210
+          },
+          "first_seen": "2026-08-28T19:36:26.608Z"
         },
         {
           "node_type": "item",
@@ -118,7 +124,8 @@
             "owner": "bonarjs",
             "repo": "kiro-bmad-setup",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T19:36:26.608Z"
         }
       ],
       "title": "Workflows and Methodology"
@@ -138,8 +145,9 @@
             "last_commit": "2026-07-03T07:25:17Z",
             "owner": "davide-desio-eleva",
             "repo": "kirograph",
-            "stars": 143
-          }
+            "stars": 142
+          },
+          "first_seen": "2026-08-28T19:36:26.608Z"
         },
         {
           "node_type": "item",
@@ -154,7 +162,8 @@
             "owner": "BinarySword",
             "repo": "kiro-project-template",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T19:36:26.608Z"
         },
         {
           "node_type": "item",
@@ -169,7 +178,8 @@
             "owner": "clouatre-labs",
             "repo": "setup-kiro-action",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T19:36:26.608Z"
         },
         {
           "node_type": "item",
@@ -184,7 +194,8 @@
             "owner": "prabhugr",
             "repo": "kiro-cli-history",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T19:36:26.608Z"
         },
         {
           "node_type": "item",
@@ -199,7 +210,8 @@
             "owner": "13shivam",
             "repo": "park",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T19:36:26.608Z"
         },
         {
           "node_type": "item",
@@ -214,7 +226,8 @@
             "owner": "staneslevski",
             "repo": "Kiro-Settings-Manager",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T19:36:26.608Z"
         }
       ],
       "title": "CLI Tools and GitHub Actions"
@@ -235,7 +248,8 @@
             "owner": "mikeyobrien",
             "repo": "ralph-orchestrator",
             "stars": 3114
-          }
+          },
+          "first_seen": "2026-08-28T19:36:26.608Z"
         },
         {
           "node_type": "item",
@@ -246,11 +260,12 @@
             "archived": false,
             "id": 1028432181,
             "language": "Python",
-            "last_commit": "2026-08-27T18:24:27Z",
+            "last_commit": "2026-08-28T14:25:40Z",
             "owner": "awslabs",
             "repo": "cli-agent-orchestrator",
-            "stars": 1140
-          }
+            "stars": 1143
+          },
+          "first_seen": "2026-08-28T19:36:26.608Z"
         },
         {
           "node_type": "item",
@@ -265,7 +280,8 @@
             "owner": "requix",
             "repo": "kiro-team",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T19:36:26.608Z"
         },
         {
           "node_type": "item",
@@ -280,7 +296,8 @@
             "owner": "aws-samples",
             "repo": "sample-kiro-cli-multiagent-development",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T19:36:26.608Z"
         }
       ],
       "title": "Agent Orchestration"
@@ -301,7 +318,8 @@
             "owner": "aws-samples",
             "repo": "sample-kiro-cli-prompts-for-product-teams",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T19:36:26.608Z"
         },
         {
           "node_type": "item",
@@ -316,7 +334,8 @@
             "owner": "mikeartee",
             "repo": "kiro-steering-docs",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T19:36:26.608Z"
         },
         {
           "node_type": "item",
@@ -331,7 +350,8 @@
             "owner": "aws-samples",
             "repo": "sample-kiro-harness-hive",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T19:36:26.608Z"
         },
         {
           "node_type": "item",
@@ -346,7 +366,8 @@
             "owner": "johndiv",
             "repo": "kiro-adr-skill",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T19:36:26.608Z"
         }
       ],
       "title": "Skills, Steering and Hooks"
@@ -367,7 +388,8 @@
             "owner": "aws-samples",
             "repo": "sample-spec-driven-presentation-maker",
             "stars": 127
-          }
+          },
+          "first_seen": "2026-08-28T19:36:26.608Z"
         },
         {
           "node_type": "item",
@@ -382,7 +404,8 @@
             "owner": "aws-samples",
             "repo": "sample-e2e-product-development-with-kiro",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T19:36:26.608Z"
         },
         {
           "node_type": "item",
@@ -397,7 +420,8 @@
             "owner": "aws-samples",
             "repo": "sample-kiro-steering-studio",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T19:36:26.608Z"
         },
         {
           "node_type": "item",
@@ -412,7 +436,8 @@
             "owner": "aws-samples",
             "repo": "sample-target-identification-agent-using-kiro",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T19:36:26.608Z"
         },
         {
           "node_type": "item",
@@ -427,14 +452,15 @@
             "owner": "aws-samples",
             "repo": "sample-pcs-kiro-agent",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T19:36:26.608Z"
         }
       ],
       "title": "Built with Kiro"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:25:08.918Z",
+    "last_updated": "2026-08-28T19:36:26.608Z",
     "original_repository_info": {
       "archived": false,
       "id": 1211809631,
