@@ -64,10 +64,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-08-27T16:33:53Z",
-            "open_issues": 1593,
+            "open_issues": 1595,
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4231,
+            "stars": 4234,
             "topics": [
               "ai",
               "ide",
@@ -137,11 +137,11 @@
             "id": 1096054771,
             "language": "Python",
             "license": "MIT-0",
-            "last_commit": "2026-08-28T23:00:32Z",
-            "open_issues": 111,
+            "last_commit": "2026-08-29T12:29:53Z",
+            "open_issues": 113,
             "owner": "awslabs",
             "repo": "aidlc-workflows",
-            "stars": 4212,
+            "stars": 4218,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:26.608Z"
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:02:30.190Z",
+    "last_updated": "2026-08-29T13:23:24.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of experimental awesome steerings, skills, hooks, orchestrators, extensions, and plugins for Kiro maintained by community.",
