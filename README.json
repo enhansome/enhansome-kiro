@@ -64,10 +64,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-08-27T16:33:53Z",
-            "open_issues": 1605,
+            "open_issues": 1614,
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4255,
+            "stars": 4259,
             "topics": [
               "ai",
               "ide",
@@ -110,11 +110,11 @@
             "id": 1108181839,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-02T16:52:44Z",
-            "open_issues": 59,
+            "last_commit": "2026-09-04T21:02:48Z",
+            "open_issues": 54,
             "owner": "kirodotdev",
             "repo": "powers",
-            "stars": 372,
+            "stars": 374,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:26.608Z"
@@ -137,11 +137,11 @@
             "id": 1096054771,
             "language": "TypeScript",
             "license": "MIT-0",
-            "last_commit": "2026-09-04T11:09:22Z",
-            "open_issues": 145,
+            "last_commit": "2026-09-05T05:00:02Z",
+            "open_issues": 149,
             "owner": "awslabs",
             "repo": "aidlc-workflows",
-            "stars": 4333,
+            "stars": 4359,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:26.608Z"
@@ -370,7 +370,7 @@
             "open_issues": 4,
             "owner": "mikeyobrien",
             "repo": "ralph-orchestrator",
-            "stars": 3122,
+            "stars": 3124,
             "topics": [
               "ai",
               "ai-agents",
@@ -403,11 +403,11 @@
             "id": 1028432181,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T04:57:40Z",
-            "open_issues": 141,
+            "last_commit": "2026-09-04T14:39:26Z",
+            "open_issues": 143,
             "owner": "awslabs",
             "repo": "cli-agent-orchestrator",
-            "stars": 1203,
+            "stars": 1206,
             "topics": [
               "agent-orchestration",
               "ai-agents",
@@ -475,7 +475,7 @@
             "open_issues": 0,
             "owner": "aws-samples",
             "repo": "sample-kiro-cli-multiagent-development",
-            "stars": 33,
+            "stars": 32,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:26.608Z"
@@ -655,7 +655,7 @@
             "open_issues": 25,
             "owner": "aws-samples",
             "repo": "sample-target-identification-agent-using-kiro",
-            "stars": 5,
+            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:26.608Z"
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T12:16:29.716Z",
+    "last_updated": "2026-09-05T11:24:02.056Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of experimental awesome steerings, skills, hooks, orchestrators, extensions, and plugins for Kiro maintained by community.",
