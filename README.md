@@ -25,14 +25,14 @@ Kiro brings structure to AI coding with spec-driven development, in the IDE and 
 
 ## Official
 
-* [Kiro](https://github.com/kirodotdev/Kiro) ⭐ 4,259 | 🐛 1,614 | 🌐 TypeScript | 📅 2026-08-27 - The Kiro IDE — agentic development from prototype to production.
+* [Kiro](https://github.com/kirodotdev/Kiro) ⭐ 4,263 | 🐛 1,614 | 🌐 TypeScript | 📅 2026-08-27 - The Kiro IDE — agentic development from prototype to production.
 * [Spirit of Kiro](https://github.com/kirodotdev/spirit-of-kiro) ⭐ 942 | 🐛 13 | 🌐 Vue | 📅 2026-07-16 - A generative-AI game built by the Kiro team showcasing agentic development.
 * [Powers](https://github.com/kirodotdev/powers) ⭐ 374 | 🐛 54 | 🌐 Python | 📅 2026-09-04 - Official Powers that add specialized context and tools to Kiro agents.
 * [Kiro CLI](https://kiro.dev/docs/cli) - Command-line interface and agent engine powering Kiro.
 
 ## Workflows and Methodology
 
-* [AI-DLC Workflows](https://github.com/awslabs/aidlc-workflows) ⭐ 4,359 | 🐛 149 | 🌐 TypeScript | 📅 2026-09-05 - Reference workflows for the AI Development Lifecycle.
+* [AI-DLC Workflows](https://github.com/awslabs/aidlc-workflows) ⭐ 4,381 | 🐛 148 | 🌐 TypeScript | 📅 2026-09-06 - Reference workflows for the AI Development Lifecycle.
 * [kiro-bmad-setup](https://github.com/bonarjs/kiro-bmad-setup) ⭐ 11 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-17 - CLI tool that configures the BMAD methodology for Kiro projects.
 
 ## CLI Tools and GitHub Actions
@@ -47,15 +47,15 @@ Kiro brings structure to AI coding with spec-driven development, in the IDE and 
 
 ## Agent Orchestration
 
-* [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) ⭐ 3,124 | 🐛 4 | 🌐 Rust | 📅 2026-09-02 - Rust-based multi-agent orchestrator supporting Kiro CLI and other agent backends.
-* [cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator) ⭐ 1,206 | 🐛 143 | 🌐 Python | 📅 2026-09-04 - Multi-provider agent orchestrator with Kiro CLI as the default backend.
+* [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) ⭐ 3,126 | 🐛 4 | 🌐 Rust | 📅 2026-09-02 - Rust-based multi-agent orchestrator supporting Kiro CLI and other agent backends.
+* [cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator) ⭐ 1,213 | 🐛 141 | 🌐 Python | 📅 2026-09-06 - Multi-provider agent orchestrator with Kiro CLI as the default backend.
 * [kiro-team](https://github.com/requix/kiro-team) ⭐ 38 | 🐛 0 | 🌐 Shell | 📅 2026-05-06 - Multi-agent orchestration patterns for Kiro CLI using worktree isolation.
 * [Kiro CLI Multi-Agent Development](https://github.com/aws-samples/sample-kiro-cli-multiagent-development) ⭐ 32 | 🐛 0 | 🌐 Shell | 📅 2026-08-06 - Five-agent development workflow demonstrating multi-agent patterns for Kiro CLI.
 
 ## Skills, Steering and Hooks
 
 * [Kiro CLI Prompts for Product Teams](https://github.com/aws-samples/sample-kiro-cli-prompts-for-product-teams) ⭐ 43 | 🐛 1 | 🌐 HTML | 📅 2026-07-21 - Product development workflow toolkit with PM-focused agents covering discovery through prototyping.
-* [kiro-steering-docs](https://github.com/mikeartee/kiro-steering-docs) ⭐ 28 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-04 - Community collection of reusable steering documents organized by category.
+* [kiro-steering-docs](https://github.com/mikeartee/kiro-steering-docs) ⭐ 29 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-04 - Community collection of reusable steering documents organized by category.
 * [Kiro Harness Hive](https://github.com/aws-samples/sample-kiro-harness-hive) ⭐ 20 | 🐛 2 | 🌐 Shell | 📅 2026-03-29 - Skill for generating custom multi-agent harnesses with plan-execute-evaluate loops.
 * [kiro-adr-skill](https://github.com/johndiv/kiro-adr-skill) ⭐ 3 | 🐛 0 | 📅 2026-04-29 - Spec-driven Architecture Decision Record generator with auto-numbering, trade-off analysis, and reusable templates. Apache 2.0 license as of 2026-04-29.
 
@@ -78,4 +78,4 @@ Kiro brings structure to AI coding with spec-driven development, in the IDE and 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
