@@ -64,10 +64,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-08-27T16:33:53Z",
-            "open_issues": 1663,
+            "open_issues": 1669,
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4288,
+            "stars": 4289,
             "topics": [
               "ai",
               "ide",
@@ -137,11 +137,11 @@
             "id": 1096054771,
             "language": "TypeScript",
             "license": "MIT-0",
-            "last_commit": "2026-09-12T10:24:45Z",
-            "open_issues": 197,
+            "last_commit": "2026-09-13T09:35:29Z",
+            "open_issues": 201,
             "owner": "awslabs",
             "repo": "aidlc-workflows",
-            "stars": 4562,
+            "stars": 4575,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:26.608Z"
@@ -370,7 +370,7 @@
             "open_issues": 6,
             "owner": "mikeyobrien",
             "repo": "ralph-orchestrator",
-            "stars": 3134,
+            "stars": 3135,
             "topics": [
               "ai",
               "ai-agents",
@@ -403,11 +403,11 @@
             "id": 1028432181,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T06:36:58Z",
-            "open_issues": 138,
+            "last_commit": "2026-09-13T06:41:42Z",
+            "open_issues": 149,
             "owner": "awslabs",
             "repo": "cli-agent-orchestrator",
-            "stars": 1262,
+            "stars": 1268,
             "topics": [
               "agent-orchestration",
               "ai-agents",
@@ -588,8 +588,8 @@
             "id": 1196740198,
             "language": "Python",
             "license": "MIT-0",
-            "last_commit": "2026-09-11T06:46:40Z",
-            "open_issues": 28,
+            "last_commit": "2026-09-13T05:55:09Z",
+            "open_issues": 29,
             "owner": "aws-samples",
             "repo": "sample-spec-driven-presentation-maker",
             "stars": 128,
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T11:43:50.348Z",
+    "last_updated": "2026-09-13T12:51:35.366Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of experimental awesome steerings, skills, hooks, orchestrators, extensions, and plugins for Kiro maintained by community.",
