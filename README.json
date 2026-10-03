@@ -64,10 +64,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-09-15T14:31:12Z",
-            "open_issues": 1392,
+            "open_issues": 1396,
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4346,
+            "stars": 4347,
             "topics": [
               "ai",
               "ide",
@@ -137,11 +137,11 @@
             "id": 1096054771,
             "language": "TypeScript",
             "license": "MIT-0",
-            "last_commit": "2026-10-03T04:53:32Z",
-            "open_issues": 327,
+            "last_commit": "2026-10-03T12:45:28Z",
+            "open_issues": 317,
             "owner": "awslabs",
             "repo": "aidlc-workflows",
-            "stars": 4964,
+            "stars": 4970,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:26.608Z"
@@ -403,8 +403,8 @@
             "id": 1028432181,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T04:34:53Z",
-            "open_issues": 155,
+            "last_commit": "2026-10-03T12:23:57Z",
+            "open_issues": 156,
             "owner": "awslabs",
             "repo": "cli-agent-orchestrator",
             "stars": 1375,
@@ -475,7 +475,7 @@
             "open_issues": 0,
             "owner": "aws-samples",
             "repo": "sample-kiro-cli-multiagent-development",
-            "stars": 35,
+            "stars": 36,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:26.608Z"
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:56:36.322Z",
+    "last_updated": "2026-10-03T12:45:46.405Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of experimental awesome steerings, skills, hooks, orchestrators, extensions, and plugins for Kiro maintained by community.",

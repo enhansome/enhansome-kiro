@@ -25,14 +25,14 @@ Kiro brings structure to AI coding with spec-driven development, in the IDE and 
 
 ## Official
 
-* [Kiro](https://github.com/kirodotdev/Kiro) ⭐ 4,346 | 🐛 1,392 | 🌐 TypeScript | 📅 2026-09-15 - The Kiro IDE — agentic development from prototype to production.
+* [Kiro](https://github.com/kirodotdev/Kiro) ⭐ 4,347 | 🐛 1,396 | 🌐 TypeScript | 📅 2026-09-15 - The Kiro IDE — agentic development from prototype to production.
 * [Spirit of Kiro](https://github.com/kirodotdev/spirit-of-kiro) ⭐ 944 | 🐛 13 | 🌐 Vue | 📅 2026-07-16 - A generative-AI game built by the Kiro team showcasing agentic development.
 * [Powers](https://github.com/kirodotdev/powers) ⭐ 383 | 🐛 53 | 🌐 Python | 📅 2026-10-01 - Official Powers that add specialized context and tools to Kiro agents.
 * [Kiro CLI](https://kiro.dev/docs/cli) - Command-line interface and agent engine powering Kiro.
 
 ## Workflows and Methodology
 
-* [AI-DLC Workflows](https://github.com/awslabs/aidlc-workflows) ⭐ 4,964 | 🐛 327 | 🌐 TypeScript | 📅 2026-10-03 - Reference workflows for the AI Development Lifecycle.
+* [AI-DLC Workflows](https://github.com/awslabs/aidlc-workflows) ⭐ 4,970 | 🐛 317 | 🌐 TypeScript | 📅 2026-10-03 - Reference workflows for the AI Development Lifecycle.
 * [kiro-bmad-setup](https://github.com/bonarjs/kiro-bmad-setup) ⭐ 11 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-17 - CLI tool that configures the BMAD methodology for Kiro projects.
 
 ## CLI Tools and GitHub Actions
@@ -48,9 +48,9 @@ Kiro brings structure to AI coding with spec-driven development, in the IDE and 
 ## Agent Orchestration
 
 * [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) ⭐ 3,163 | 🐛 8 | 🌐 Rust | 📅 2026-10-02 - Rust-based multi-agent orchestrator supporting Kiro CLI and other agent backends.
-* [cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator) ⭐ 1,375 | 🐛 155 | 🌐 Python | 📅 2026-10-03 - Multi-provider agent orchestrator with Kiro CLI as the default backend.
+* [cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator) ⭐ 1,375 | 🐛 156 | 🌐 Python | 📅 2026-10-03 - Multi-provider agent orchestrator with Kiro CLI as the default backend.
 * [kiro-team](https://github.com/requix/kiro-team) ⭐ 42 | 🐛 0 | 🌐 Shell | 📅 2026-05-06 - Multi-agent orchestration patterns for Kiro CLI using worktree isolation.
-* [Kiro CLI Multi-Agent Development](https://github.com/aws-samples/sample-kiro-cli-multiagent-development) ⭐ 35 | 🐛 0 | 🌐 Shell | 📅 2026-09-09 - Five-agent development workflow demonstrating multi-agent patterns for Kiro CLI.
+* [Kiro CLI Multi-Agent Development](https://github.com/aws-samples/sample-kiro-cli-multiagent-development) ⭐ 36 | 🐛 0 | 🌐 Shell | 📅 2026-09-09 - Five-agent development workflow demonstrating multi-agent patterns for Kiro CLI.
 
 ## Skills, Steering and Hooks
 
