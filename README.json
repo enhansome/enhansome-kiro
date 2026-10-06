@@ -64,10 +64,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-09-15T14:31:12Z",
-            "open_issues": 1398,
+            "open_issues": 1404,
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4354,
+            "stars": 4355,
             "topics": [
               "ai",
               "ide",
@@ -137,11 +137,11 @@
             "id": 1096054771,
             "language": "TypeScript",
             "license": "MIT-0",
-            "last_commit": "2026-10-06T10:36:34Z",
-            "open_issues": 329,
+            "last_commit": "2026-10-06T14:20:45Z",
+            "open_issues": 297,
             "owner": "awslabs",
             "repo": "aidlc-workflows",
-            "stars": 5006,
+            "stars": 5007,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:26.608Z"
@@ -370,7 +370,7 @@
             "open_issues": 10,
             "owner": "mikeyobrien",
             "repo": "ralph-orchestrator",
-            "stars": 3163,
+            "stars": 3165,
             "topics": [
               "ai",
               "ai-agents",
@@ -403,11 +403,11 @@
             "id": 1028432181,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T10:27:39Z",
-            "open_issues": 160,
+            "last_commit": "2026-10-06T12:44:53Z",
+            "open_issues": 157,
             "owner": "awslabs",
             "repo": "cli-agent-orchestrator",
-            "stars": 1388,
+            "stars": 1391,
             "topics": [
               "agent-orchestration",
               "ai-agents",
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:45:59.015Z",
+    "last_updated": "2026-10-06T14:30:13.202Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of experimental awesome steerings, skills, hooks, orchestrators, extensions, and plugins for Kiro maintained by community.",
