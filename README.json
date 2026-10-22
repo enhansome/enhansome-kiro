@@ -64,10 +64,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-10-18T11:35:32Z",
-            "open_issues": 1549,
+            "open_issues": 1559,
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4382,
+            "stars": 4387,
             "topics": [
               "ai",
               "ide",
@@ -137,11 +137,11 @@
             "id": 1096054771,
             "language": "TypeScript",
             "license": "MIT-0",
-            "last_commit": "2026-10-21T13:13:31Z",
-            "open_issues": 285,
+            "last_commit": "2026-10-22T13:09:15Z",
+            "open_issues": 262,
             "owner": "awslabs",
             "repo": "aidlc-workflows",
-            "stars": 5437,
+            "stars": 5464,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:26.608Z"
@@ -242,7 +242,7 @@
             "id": 1105001919,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T00:42:49Z",
+            "last_commit": "2026-10-22T05:36:25Z",
             "open_issues": 0,
             "owner": "clouatre-labs",
             "repo": "setup-kiro-action",
@@ -370,7 +370,7 @@
             "open_issues": 12,
             "owner": "mikeyobrien",
             "repo": "ralph-orchestrator",
-            "stars": 3182,
+            "stars": 3185,
             "topics": [
               "ai",
               "ai-agents",
@@ -403,11 +403,11 @@
             "id": 1028432181,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T12:26:19Z",
-            "open_issues": 199,
+            "last_commit": "2026-10-22T10:42:32Z",
+            "open_issues": 160,
             "owner": "awslabs",
             "repo": "cli-agent-orchestrator",
-            "stars": 1457,
+            "stars": 1459,
             "topics": [
               "agent-orchestration",
               "ai-agents",
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T13:15:29.119Z",
+    "last_updated": "2026-10-22T13:13:16.606Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of experimental awesome steerings, skills, hooks, orchestrators, extensions, and plugins for Kiro maintained by community.",
