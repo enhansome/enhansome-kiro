@@ -25,14 +25,14 @@ Kiro brings structure to AI coding with spec-driven development, in the IDE and 
 
 ## Official
 
-* [Kiro](https://github.com/kirodotdev/Kiro) ⭐ 4,447 | 🐛 1,572 | 🌐 TypeScript | 📅 2026-10-18 - The Kiro IDE — agentic development from prototype to production.
+* [Kiro](https://github.com/kirodotdev/Kiro) ⭐ 4,451 | 🐛 1,585 | 🌐 TypeScript | 📅 2026-11-05 - The Kiro IDE — agentic development from prototype to production.
 * [Spirit of Kiro](https://github.com/kirodotdev/spirit-of-kiro) ⭐ 945 | 🐛 13 | 🌐 Vue | 📅 2026-07-16 - A generative-AI game built by the Kiro team showcasing agentic development.
-* [Powers](https://github.com/kirodotdev/powers) ⭐ 401 | 🐛 52 | 🌐 Python | 📅 2026-10-29 - Official Powers that add specialized context and tools to Kiro agents.
+* [Powers](https://github.com/kirodotdev/powers) ⭐ 401 | 🐛 53 | 🌐 Python | 📅 2026-11-05 - Official Powers that add specialized context and tools to Kiro agents.
 * [Kiro CLI](https://kiro.dev/docs/cli) - Command-line interface and agent engine powering Kiro.
 
 ## Workflows and Methodology
 
-* [AI-DLC Workflows](https://github.com/awslabs/aidlc-workflows) ⭐ 5,696 | 🐛 280 | 🌐 TypeScript | 📅 2026-11-05 - Reference workflows for the AI Development Lifecycle.
+* [AI-DLC Workflows](https://github.com/awslabs/aidlc-workflows) ⭐ 5,874 | 🐛 300 | 🌐 TypeScript | 📅 2026-11-06 - Reference workflows for the AI Development Lifecycle.
 * [kiro-bmad-setup](https://github.com/bonarjs/kiro-bmad-setup) ⭐ 11 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-17 - CLI tool that configures the BMAD methodology for Kiro projects.
 
 ## CLI Tools and GitHub Actions
@@ -47,8 +47,8 @@ Kiro brings structure to AI coding with spec-driven development, in the IDE and 
 
 ## Agent Orchestration
 
-* [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) ⭐ 3,192 | 🐛 20 | 🌐 Rust | 📅 2026-10-31 - Rust-based multi-agent orchestrator supporting Kiro CLI and other agent backends.
-* [cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator) ⭐ 1,515 | 🐛 177 | 🌐 Python | 📅 2026-11-05 - Multi-provider agent orchestrator with Kiro CLI as the default backend.
+* [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) ⭐ 3,194 | 🐛 38 | 🌐 Rust | 📅 2026-11-06 - Rust-based multi-agent orchestrator supporting Kiro CLI and other agent backends.
+* [cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator) ⭐ 1,518 | 🐛 177 | 🌐 Python | 📅 2026-11-06 - Multi-provider agent orchestrator with Kiro CLI as the default backend.
 * [Kiro CLI Multi-Agent Development](https://github.com/aws-samples/sample-kiro-cli-multiagent-development) ⭐ 44 | 🐛 0 | 🌐 Shell | 📅 2026-09-09 - Five-agent development workflow demonstrating multi-agent patterns for Kiro CLI.
 * [kiro-team](https://github.com/requix/kiro-team) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2026-11-04 - Multi-agent orchestration patterns for Kiro CLI using worktree isolation.
 
@@ -56,12 +56,12 @@ Kiro brings structure to AI coding with spec-driven development, in the IDE and 
 
 * [Kiro CLI Prompts for Product Teams](https://github.com/aws-samples/sample-kiro-cli-prompts-for-product-teams) ⭐ 47 | 🐛 2 | 🌐 HTML | 📅 2026-11-05 - Product development workflow toolkit with PM-focused agents covering discovery through prototyping.
 * [kiro-steering-docs](https://github.com/mikeartee/kiro-steering-docs) ⭐ 33 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-04 - Community collection of reusable steering documents organized by category.
-* [Kiro Harness Hive](https://github.com/aws-samples/sample-kiro-harness-hive) ⭐ 21 | 🐛 2 | 🌐 Shell | 📅 2026-03-29 - Skill for generating custom multi-agent harnesses with plan-execute-evaluate loops.
+* [Kiro Harness Hive](https://github.com/aws-samples/sample-kiro-harness-hive) ⭐ 22 | 🐛 2 | 🌐 Shell | 📅 2026-03-29 - Skill for generating custom multi-agent harnesses with plan-execute-evaluate loops.
 * [kiro-adr-skill](https://github.com/johndiv/kiro-adr-skill) ⭐ 4 | 🐛 0 | 📅 2026-04-29 - Spec-driven Architecture Decision Record generator with auto-numbering, trade-off analysis, and reusable templates. Apache 2.0 license as of 2026-04-29.
 
 ## Built with Kiro
 
-* [Spec-Driven Presentation Maker](https://github.com/aws-samples/sample-spec-driven-presentation-maker) ⭐ 134 | 🐛 12 | 🌐 Python | 📅 2026-11-05 - Four-layer architecture for generating presentations from Kiro skill to web app.
+* [Spec-Driven Presentation Maker](https://github.com/aws-samples/sample-spec-driven-presentation-maker) ⭐ 134 | 🐛 13 | 🌐 Python | 📅 2026-11-06 - Four-layer architecture for generating presentations from Kiro skill to web app.
 * [E2E Product Development](https://github.com/aws-samples/sample-e2e-product-development-with-kiro) ⭐ 24 | 🐛 1 | 🌐 Python | 📅 2026-04-09 - Agent Lattice framework for running design-thinking workflows inside Kiro.
 * [Kiro Steering Studio](https://github.com/aws-samples/sample-kiro-steering-studio) ⭐ 7 | 🐛 8 | 🌐 TypeScript | 📅 2026-05-04 - Voice-powered steering file generator using Amazon Nova Sonic.
 * [Target Identification Agent](https://github.com/aws-samples/sample-target-identification-agent-using-kiro) ⭐ 6 | 🐛 25 | 🌐 Python | 📅 2026-05-12 - Pharma drug-discovery platform using Kiro specs and Strands SDK.
@@ -78,4 +78,4 @@ Kiro brings structure to AI coding with spec-driven development, in the IDE and 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
