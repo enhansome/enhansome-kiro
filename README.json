@@ -64,7 +64,7 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-11-05T17:16:02Z",
-            "open_issues": 1587,
+            "open_issues": 1591,
             "owner": "kirodotdev",
             "repo": "Kiro",
             "stars": 4452,
@@ -111,7 +111,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-11-05T23:33:00Z",
-            "open_issues": 53,
+            "open_issues": 54,
             "owner": "kirodotdev",
             "repo": "powers",
             "stars": 401,
@@ -137,11 +137,11 @@
             "id": 1096054771,
             "language": "TypeScript",
             "license": "MIT-0",
-            "last_commit": "2026-11-07T13:17:10Z",
-            "open_issues": 280,
+            "last_commit": "2026-11-08T14:13:09Z",
+            "open_issues": 281,
             "owner": "awslabs",
             "repo": "aidlc-workflows",
-            "stars": 5915,
+            "stars": 5949,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:26.608Z"
@@ -246,7 +246,7 @@
             "open_issues": 0,
             "owner": "clouatre-labs",
             "repo": "setup-kiro-action",
-            "stars": 16,
+            "stars": 17,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -403,11 +403,11 @@
             "id": 1028432181,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T11:56:42Z",
-            "open_issues": 182,
+            "last_commit": "2026-11-08T13:05:06Z",
+            "open_issues": 183,
             "owner": "awslabs",
             "repo": "cli-agent-orchestrator",
-            "stars": 1524,
+            "stars": 1526,
             "topics": [
               "agent-orchestration",
               "ai-agents",
@@ -588,7 +588,7 @@
             "id": 1196740198,
             "language": "Python",
             "license": "MIT-0",
-            "last_commit": "2026-11-07T13:48:53Z",
+            "last_commit": "2026-11-08T11:41:03Z",
             "open_issues": 10,
             "owner": "aws-samples",
             "repo": "sample-spec-driven-presentation-maker",
@@ -676,7 +676,7 @@
             "open_issues": 0,
             "owner": "aws-samples",
             "repo": "sample-pcs-kiro-agent",
-            "stars": 2,
+            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:26.608Z"
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T14:23:10.298Z",
+    "last_updated": "2026-11-08T14:33:21.066Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of experimental awesome steerings, skills, hooks, orchestrators, extensions, and plugins for Kiro maintained by community.",
