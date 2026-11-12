@@ -15,11 +15,11 @@
             "id": 1193581660,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T15:20:28Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-12T11:53:57Z",
+            "open_issues": 6,
             "owner": "davide-desio-eleva",
             "repo": "kirograph",
-            "stars": 165,
+            "stars": 166,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:26.608Z"
@@ -64,10 +64,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-11-05T17:16:02Z",
-            "open_issues": 1584,
+            "open_issues": 1609,
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4456,
+            "stars": 4460,
             "topics": [
               "ai",
               "ide",
@@ -137,11 +137,11 @@
             "id": 1096054771,
             "language": "TypeScript",
             "license": "MIT-0",
-            "last_commit": "2026-11-11T15:01:57Z",
-            "open_issues": 304,
+            "last_commit": "2026-11-12T16:10:53Z",
+            "open_issues": 322,
             "owner": "awslabs",
             "repo": "aidlc-workflows",
-            "stars": 6024,
+            "stars": 6047,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:26.608Z"
@@ -185,11 +185,11 @@
             "id": 1193581660,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T15:20:28Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-12T11:53:57Z",
+            "open_issues": 6,
             "owner": "davide-desio-eleva",
             "repo": "kirograph",
-            "stars": 165,
+            "stars": 166,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:26.608Z"
@@ -366,11 +366,11 @@
             "id": 1052259802,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-06T00:53:31Z",
-            "open_issues": 38,
+            "last_commit": "2026-11-12T15:24:33Z",
+            "open_issues": 37,
             "owner": "mikeyobrien",
             "repo": "ralph-orchestrator",
-            "stars": 3201,
+            "stars": 3202,
             "topics": [
               "ai",
               "ai-agents",
@@ -403,11 +403,11 @@
             "id": 1028432181,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T14:46:49Z",
+            "last_commit": "2026-11-12T09:44:59Z",
             "open_issues": 178,
             "owner": "awslabs",
             "repo": "cli-agent-orchestrator",
-            "stars": 1541,
+            "stars": 1548,
             "topics": [
               "agent-orchestration",
               "ai-agents",
@@ -544,7 +544,7 @@
             "open_issues": 2,
             "owner": "aws-samples",
             "repo": "sample-kiro-harness-hive",
-            "stars": 22,
+            "stars": 23,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:26.608Z"
@@ -588,8 +588,8 @@
             "id": 1196740198,
             "language": "Python",
             "license": "MIT-0",
-            "last_commit": "2026-11-11T09:18:53Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-12T15:26:42Z",
+            "open_issues": 11,
             "owner": "aws-samples",
             "repo": "sample-spec-driven-presentation-maker",
             "stars": 136,
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T15:38:28.131Z",
+    "last_updated": "2026-11-12T16:19:21.475Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of experimental awesome steerings, skills, hooks, orchestrators, extensions, and plugins for Kiro maintained by community.",
