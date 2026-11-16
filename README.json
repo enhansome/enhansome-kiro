@@ -64,7 +64,7 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-11-05T17:16:02Z",
-            "open_issues": 1630,
+            "open_issues": 1646,
             "owner": "kirodotdev",
             "repo": "Kiro",
             "stars": 4473,
@@ -93,7 +93,7 @@
             "open_issues": 13,
             "owner": "kirodotdev",
             "repo": "spirit-of-kiro",
-            "stars": 946,
+            "stars": 945,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:26.608Z"
@@ -114,7 +114,7 @@
             "open_issues": 57,
             "owner": "kirodotdev",
             "repo": "powers",
-            "stars": 404,
+            "stars": 403,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:26.608Z"
@@ -137,11 +137,11 @@
             "id": 1096054771,
             "language": "TypeScript",
             "license": "MIT-0",
-            "last_commit": "2026-11-15T10:16:13Z",
-            "open_issues": 324,
+            "last_commit": "2026-11-16T08:18:22Z",
+            "open_issues": 325,
             "owner": "awslabs",
             "repo": "aidlc-workflows",
-            "stars": 6093,
+            "stars": 6108,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:26.608Z"
@@ -403,11 +403,11 @@
             "id": 1028432181,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-15T12:19:37Z",
-            "open_issues": 180,
+            "last_commit": "2026-11-16T12:31:14Z",
+            "open_issues": 179,
             "owner": "awslabs",
             "repo": "cli-agent-orchestrator",
-            "stars": 1561,
+            "stars": 1563,
             "topics": [
               "agent-orchestration",
               "ai-agents",
@@ -434,6 +434,33 @@
         },
         {
           "node_type": "item",
+          "title": "kiro-team",
+          "description": "Multi-agent orchestration patterns for Kiro CLI using worktree isolation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Multi-agent orchestration for Kiro CLI - coordinate specialized AI agents to tackle complex tasks through planning, parallel execution, and validation.",
+            "homepage": null,
+            "id": 1153513373,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-16T06:45:54Z",
+            "open_issues": 1,
+            "owner": "requix",
+            "repo": "kiro-team",
+            "stars": 44,
+            "topics": [
+              "agent-orchestration",
+              "ai-agents",
+              "kiro",
+              "kiro-cli",
+              "multi-agent"
+            ]
+          },
+          "first_seen": "2026-08-28T19:36:26.608Z"
+        },
+        {
+          "node_type": "item",
           "title": "Kiro CLI Multi-Agent Development",
           "description": "Five-agent development workflow demonstrating multi-agent patterns for Kiro CLI.",
           "children": [],
@@ -448,35 +475,8 @@
             "open_issues": 0,
             "owner": "aws-samples",
             "repo": "sample-kiro-cli-multiagent-development",
-            "stars": 44,
+            "stars": 43,
             "topics": []
-          },
-          "first_seen": "2026-08-28T19:36:26.608Z"
-        },
-        {
-          "node_type": "item",
-          "title": "kiro-team",
-          "description": "Multi-agent orchestration patterns for Kiro CLI using worktree isolation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Multi-agent orchestration for Kiro CLI - coordinate specialized AI agents to tackle complex tasks through planning, parallel execution, and validation.",
-            "homepage": null,
-            "id": 1153513373,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-11-04T11:18:49Z",
-            "open_issues": 1,
-            "owner": "requix",
-            "repo": "kiro-team",
-            "stars": 44,
-            "topics": [
-              "agent-orchestration",
-              "ai-agents",
-              "kiro",
-              "kiro-cli",
-              "multi-agent"
-            ]
           },
           "first_seen": "2026-08-28T19:36:26.608Z"
         }
@@ -588,8 +588,8 @@
             "id": 1196740198,
             "language": "Python",
             "license": "MIT-0",
-            "last_commit": "2026-11-15T11:32:02Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-16T17:18:59Z",
+            "open_issues": 18,
             "owner": "aws-samples",
             "repo": "sample-spec-driven-presentation-maker",
             "stars": 137,
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T14:59:22.660Z",
+    "last_updated": "2026-11-16T17:29:37.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of experimental awesome steerings, skills, hooks, orchestrators, extensions, and plugins for Kiro maintained by community.",
