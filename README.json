@@ -40,7 +40,7 @@
             "open_issues": 3,
             "owner": "prabhugr",
             "repo": "kiro-cli-history",
-            "stars": 12,
+            "stars": 13,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:26.608Z"
@@ -64,10 +64,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-11-05T17:16:02Z",
-            "open_issues": 1672,
+            "open_issues": 1680,
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4484,
+            "stars": 4483,
             "topics": [
               "ai",
               "ide",
@@ -110,8 +110,8 @@
             "id": 1108181839,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-19T00:34:49Z",
-            "open_issues": 58,
+            "last_commit": "2026-11-20T00:37:25Z",
+            "open_issues": 54,
             "owner": "kirodotdev",
             "repo": "powers",
             "stars": 404,
@@ -137,11 +137,11 @@
             "id": 1096054771,
             "language": "TypeScript",
             "license": "MIT-0",
-            "last_commit": "2026-11-19T16:22:08Z",
-            "open_issues": 326,
+            "last_commit": "2026-11-20T15:38:37Z",
+            "open_issues": 356,
             "owner": "awslabs",
             "repo": "aidlc-workflows",
-            "stars": 6168,
+            "stars": 6186,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:26.608Z"
@@ -282,7 +282,7 @@
             "open_issues": 3,
             "owner": "prabhugr",
             "repo": "kiro-cli-history",
-            "stars": 12,
+            "stars": 13,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:26.608Z"
@@ -403,11 +403,11 @@
             "id": 1028432181,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T14:50:04Z",
-            "open_issues": 205,
+            "last_commit": "2026-11-20T12:01:53Z",
+            "open_issues": 183,
             "owner": "awslabs",
             "repo": "cli-agent-orchestrator",
-            "stars": 1596,
+            "stars": 1602,
             "topics": [
               "agent-orchestration",
               "ai-agents",
@@ -502,7 +502,7 @@
             "open_issues": 1,
             "owner": "aws-samples",
             "repo": "sample-kiro-cli-prompts-for-product-teams",
-            "stars": 47,
+            "stars": 48,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:26.608Z"
@@ -588,11 +588,11 @@
             "id": 1196740198,
             "language": "Python",
             "license": "MIT-0",
-            "last_commit": "2026-11-19T07:04:09Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-20T11:23:08Z",
+            "open_issues": 24,
             "owner": "aws-samples",
             "repo": "sample-spec-driven-presentation-maker",
-            "stars": 137,
+            "stars": 138,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:26.608Z"
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T16:49:54.852Z",
+    "last_updated": "2026-11-20T16:24:55.384Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of experimental awesome steerings, skills, hooks, orchestrators, extensions, and plugins for Kiro maintained by community.",
