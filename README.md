@@ -10,7 +10,7 @@ Kiro brings structure to AI coding with spec-driven development, in the IDE and 
 
 ## Latest Additions
 
-* [KiroGraph](https://github.com/davide-desio-eleva/kirograph) ⭐ 166 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-23 - Semantic code knowledge graph for Kiro: tree-sitter-powered indexing, MCP tools for instant symbol lookups and call-graph traversal, optional vector search — all 100% local.
+* [KiroGraph](https://github.com/davide-desio-eleva/kirograph) ⭐ 167 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-24 - Semantic code knowledge graph for Kiro: tree-sitter-powered indexing, MCP tools for instant symbol lookups and call-graph traversal, optional vector search — all 100% local.
 * [kiro-cli-history](https://github.com/prabhugr/kiro-cli-history) ⭐ 13 | 🐛 3 | 🌐 Python | 📅 2026-04-06 - Terminal UI for fuzzy-searching, browsing, and resuming Kiro CLI conversations across all directories and session formats.
 
 ## Contents
@@ -25,19 +25,19 @@ Kiro brings structure to AI coding with spec-driven development, in the IDE and 
 
 ## Official
 
-* [Kiro](https://github.com/kirodotdev/Kiro) ⭐ 4,488 | 🐛 1,689 | 🌐 TypeScript | 📅 2026-11-23 - The Kiro IDE — agentic development from prototype to production.
-* [Spirit of Kiro](https://github.com/kirodotdev/spirit-of-kiro) ⭐ 948 | 🐛 13 | 🌐 Vue | 📅 2026-07-16 - A generative-AI game built by the Kiro team showcasing agentic development.
-* [Powers](https://github.com/kirodotdev/powers) ⭐ 402 | 🐛 56 | 🌐 Python | 📅 2026-11-20 - Official Powers that add specialized context and tools to Kiro agents.
+* [Kiro](https://github.com/kirodotdev/Kiro) ⭐ 4,493 | 🐛 1,671 | 🌐 TypeScript | 📅 2026-11-23 - The Kiro IDE — agentic development from prototype to production.
+* [Spirit of Kiro](https://github.com/kirodotdev/spirit-of-kiro) ⭐ 947 | 🐛 13 | 🌐 Vue | 📅 2026-07-16 - A generative-AI game built by the Kiro team showcasing agentic development.
+* [Powers](https://github.com/kirodotdev/powers) ⭐ 402 | 🐛 55 | 🌐 Python | 📅 2026-11-20 - Official Powers that add specialized context and tools to Kiro agents.
 * [Kiro CLI](https://kiro.dev/docs/cli) - Command-line interface and agent engine powering Kiro.
 
 ## Workflows and Methodology
 
-* [AI-DLC Workflows](https://github.com/awslabs/aidlc-workflows) ⭐ 6,218 | 🐛 355 | 🌐 TypeScript | 📅 2026-11-23 - Reference workflows for the AI Development Lifecycle.
+* [AI-DLC Workflows](https://github.com/awslabs/aidlc-workflows) ⭐ 6,232 | 🐛 358 | 🌐 TypeScript | 📅 2026-11-24 - Reference workflows for the AI Development Lifecycle.
 * [kiro-bmad-setup](https://github.com/bonarjs/kiro-bmad-setup) ⭐ 11 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-17 - CLI tool that configures the BMAD methodology for Kiro projects.
 
 ## CLI Tools and GitHub Actions
 
-* [KiroGraph](https://github.com/davide-desio-eleva/kirograph) ⭐ 166 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-23 - Semantic code knowledge graph for Kiro: tree-sitter-powered indexing, MCP tools for instant symbol lookups and call-graph traversal, optional vector search — all 100% local.
+* [KiroGraph](https://github.com/davide-desio-eleva/kirograph) ⭐ 167 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-24 - Semantic code knowledge graph for Kiro: tree-sitter-powered indexing, MCP tools for instant symbol lookups and call-graph traversal, optional vector search — all 100% local.
 * [kiro-project-template](https://github.com/BinarySword/kiro-project-template) ⭐ 20 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-16 - Starter template with steering docs, hooks, and an npx scaffolder supporting 13 stack presets.
 * [setup-kiro-action](https://github.com/clouatre-labs/setup-kiro-action) ⭐ 17 | 🐛 0 | 📅 2026-11-23 - GitHub Action to install and cache Kiro CLI in CI/CD pipelines.
 * [kiro-cli-history](https://github.com/prabhugr/kiro-cli-history) ⭐ 13 | 🐛 3 | 🌐 Python | 📅 2026-04-06 - Terminal UI for fuzzy-searching, browsing, and resuming Kiro CLI conversations across all directories and session formats.
@@ -48,7 +48,7 @@ Kiro brings structure to AI coding with spec-driven development, in the IDE and 
 ## Agent Orchestration
 
 * [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) ⭐ 3,211 | 🐛 36 | 🌐 Rust | 📅 2026-11-13 - Rust-based multi-agent orchestrator supporting Kiro CLI and other agent backends.
-* [cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator) ⭐ 1,647 | 🐛 184 | 🌐 Python | 📅 2026-11-23 - Multi-provider agent orchestrator with Kiro CLI as the default backend.
+* [cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator) ⭐ 1,669 | 🐛 202 | 🌐 Python | 📅 2026-11-24 - Multi-provider agent orchestrator with Kiro CLI as the default backend.
 * [Kiro CLI Multi-Agent Development](https://github.com/aws-samples/sample-kiro-cli-multiagent-development) ⭐ 44 | 🐛 0 | 🌐 Shell | 📅 2026-09-09 - Five-agent development workflow demonstrating multi-agent patterns for Kiro CLI.
 * [kiro-team](https://github.com/requix/kiro-team) ⭐ 44 | 🐛 0 | 🌐 Python | 📅 2026-11-16 - Multi-agent orchestration patterns for Kiro CLI using worktree isolation.
 
@@ -78,4 +78,4 @@ Kiro brings structure to AI coding with spec-driven development, in the IDE and 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
